@@ -4,14 +4,6 @@ header {
     background-color: pink;
 }
 
-
-
-.containerimg {
-    width: 230px;
-    height: 265px;
-    background-color: black;
-}
-
 .lista {
     display: none;
 }
@@ -23,5 +15,16 @@ header {
     }
 }
 
+#sezione1 {
+    background-color: #1abc9c;
+    height: 492px;
+}
+
+.containerimg {
+    width: 230px;
+    height: 265px;
+    background-color: black;
+    margin-top: 40px;
+}
 
 
